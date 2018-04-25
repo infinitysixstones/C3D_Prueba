@@ -1,0 +1,6 @@
+c:\users\josegt\documents\visual studio 2013\Projects\C3D_Agenda_Mascotas\C3D_Agenda_Mascotas\bin\Debug\C3D_Agenda_Mascotas.exe.config
+c:\users\josegt\documents\visual studio 2013\Projects\C3D_Agenda_Mascotas\C3D_Agenda_Mascotas\obj\Debug\C3D_Agenda_Mascotas.csprojResolveAssemblyReference.cache
+c:\users\josegt\documents\visual studio 2013\Projects\C3D_Agenda_Mascotas\C3D_Agenda_Mascotas\bin\Debug\C3D_Agenda_Mascotas.exe
+c:\users\josegt\documents\visual studio 2013\Projects\C3D_Agenda_Mascotas\C3D_Agenda_Mascotas\bin\Debug\C3D_Agenda_Mascotas.pdb
+c:\users\josegt\documents\visual studio 2013\Projects\C3D_Agenda_Mascotas\C3D_Agenda_Mascotas\obj\Debug\C3D_Agenda_Mascotas.exe
+c:\users\josegt\documents\visual studio 2013\Projects\C3D_Agenda_Mascotas\C3D_Agenda_Mascotas\obj\Debug\C3D_Agenda_Mascotas.pdb
